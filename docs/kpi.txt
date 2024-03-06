@@ -1,0 +1,36 @@
+30 questions que vous pouvez explorer avec les données fournies :
+
+1-Comment la variable cible (target) évolue-t-elle au fil du temps ?
+2- Y a-t-il une corrélation entre la cible et la température à 2 mètres au-dessus du sol ?
+3- Quelle est la distribution de la variable cible dans l'ensemble des données ?
+4- Existe-t-il une relation entre la cible et la pression troposphérique du dioxyde d'azote (NO2) ?
+5- Comment la colonne de densité de dioxyde d'azote (NO2) varie-t-elle avec le temps ?
+6- Y a-t-il une tendance saisonnière dans la concentration de dioxyde d'azote (NO2) ?
+7- Quelle est la distribution des valeurs de la densité de dioxyde d'azote (NO2) dans l'ensemble des données ?
+8- Existe-t-il une corrélation entre la cible et la fraction de nuages de dioxyde d'azote (NO2) ?
+9- Comment la concentration de monoxyde de carbone (CO) varie-t-elle avec la hauteur des nuages ?
+10- Quelle est la relation entre la densité de colonne de monoxyde de carbone (CO) et l'altitude du capteur ?
+11 - Y a-t-il une corrélation entre la densité de colonne de monoxyde de carbone (CO) et la fraction de nuages ?
+12- Comment la densité de colonne de monoxyde de carbone (CO) évolue-t-elle avec la pression atmosphérique ?
+13 - Existe-t-il une relation entre la densité de colonne de monoxyde de carbone (CO) et la température à 2 mètres au-dessus du sol ?
+14- Quelle est la distribution des valeurs de la densité de colonne de monoxyde de carbone (CO) dans l'ensemble des données ?
+15-Y a-t-il une corrélation entre la densité de colonne de monoxyde de carbone (CO) et l'humidité relative ?
+16- Comment la colonne de densité de dioxyde d'azote (NO2) varie-t-elle en fonction de l'angle d'azimut solaire ?
+17- Existe-t-il une relation entre la densité de colonne de dioxyde d'azote (NO2) et l'angle zénithal solaire ?
+18- Quelle est la distribution des valeurs de la densité de colonne de dioxyde d'azote (NO2) en fonction de l'angle d'azimut solaire ?
+19 - Y a-t-il une corrélation entre la densité de colonne de dioxyde d'azote (NO2) et la pression troposphérique ?
+20- Comment la densité de colonne de dioxyde d'azote (NO2) évolue-t-elle avec la température à 2 mètres au-dessus du sol ?
+21- Quelle est la distribution des valeurs de la densité de colonne de dioxyde d'azote (NO2) en fonction de la pression troposphérique ?
+22- Existe-t-il une relation entre la densité de colonne de dioxyde d'azote (NO2) et la vitesse du vent à 10 mètres au-dessus du sol ?
+23- Comment la densité de colonne de dioxyde d'azote (NO2) varie-t-elle avec la fraction de nuages ?
+24- Y a-t-il une corrélation entre la densité de colonne de dioxyde d'azote (NO2) et la colonne de densité de méthane (CH4) ?
+25- Comment la densité de colonne de dioxyde de soufre (SO2) varie-t-elle en fonction de l'angle d'azimut solaire ?
+26- Existe-t-il une relation entre la densité de colonne de dioxyde de soufre (SO2) et l'angle zénithal solaire ?
+27 -Quelle est la distribution des valeurs de la densité de colonne de dioxyde de soufre (SO2) en fonction de l'angle d'azimut solaire ?
+28 - Y a-t-il une corrélation entre la densité de colonne de dioxyde de soufre (SO2) et la pression troposphérique ?
+29- Comment la densité de colonne de dioxyde de soufre (SO2) évolue-t-elle avec la température à 2 mètres au-dessus du sol ?
+30 - Quelle est la distribution des valeurs de la densité de colonne de dioxyde de soufre (SO2) en fonction de la pression troposphérique ?
+
+
+
+
